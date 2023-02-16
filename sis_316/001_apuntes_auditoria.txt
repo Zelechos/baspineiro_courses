@@ -1,0 +1,23 @@
+Apuntes de Auditoria Finales!!!
+
+-Plan de Contingencia
+-BCP
+-DRP
+-COBIT 3
+-Proceso de TI
+-DS4 Continuidad del Servicio 
+-Se quiere cuidar lo activos que son criticos!!(los que son mas importantes)
+-Redundancia a todo nivel 
+	-Redes
+	-Enlaces	
+	-Servicios
+	-Servidores
+	-Apps
+	-Locaciones(Cold Sites, Hot Sites, etc)
+	-La Virtualizacion nos permite tener redundancia
+	-Backups
+-DPR - Plan de Recuperacion de desastres (esto es una vez ocurrido el desastre)
+-BCP - Planificacion de la continuidad (es peventivo antes del desastre)
+- Estudiar los Procesos de BCP
+
+ESTUDIAR LAS DIAPOSITIVAS PARA EL SEGUNDO PARCIAL
