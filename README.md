@@ -1,5 +1,5 @@
 # baspineiro_courses
-un repositorio con contenido de parciales y cuestinarios de las materias de el Ingeniero baspineiro
+Un repositorio que contiene el contenido de los avances, los parciales y los cuestionarios de las asignaturas impartidas por el Ingeniero Baspineiro.
 
 
 proximamente sis_325 y forense
